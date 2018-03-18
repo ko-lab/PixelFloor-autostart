@@ -1,0 +1,4 @@
+mqttuser = ""
+mqttpass = ""
+mqttaddr = ""
+mqtttopic = ""
